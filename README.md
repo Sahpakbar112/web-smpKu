@@ -34,3 +34,8 @@ Password : 123456
 - Manage Pengumuman (CRUD)
 - Manage Kategori Artikel (CRUD)
 
+
+
+<img width="942" alt="1" src="https://github.com/Sahpakbar112/web-smpKu/assets/57380600/754ad2e3-7e52-4089-bf02-7983e4cbf76f">
+<img width="960" alt="2" src="https://github.com/Sahpakbar112/web-smpKu/assets/57380600/2139fe87-62d2-4509-98d0-c3be9688fdde">
+<img width="956" alt="3" src="https://github.com/Sahpakbar112/web-smpKu/assets/57380600/ee91a023-e0e0-4a64-bd3a-816514e556b1">
